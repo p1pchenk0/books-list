@@ -38,6 +38,7 @@ export default {
   border-radius: 15px;
 
   &__title {
+    color: #114b5f;
     font-size: 1.25rem;
   }
 

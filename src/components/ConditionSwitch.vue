@@ -45,7 +45,7 @@ export default {
     &--selected {
       color: white;
       padding: 5px;
-      background-color: black;
+      background-color: #114b5f;
       border-radius: 5px;
     }
   }
